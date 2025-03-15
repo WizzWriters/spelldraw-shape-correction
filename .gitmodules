@@ -1,0 +1,3 @@
+[submodule "tkcanvas"]
+	path = tkcanvas
+	url = https://github.com/ventus550/tk-canvas
